@@ -1,2 +1,2 @@
 # hello-world
-Belajar
+Just Learing Something new
